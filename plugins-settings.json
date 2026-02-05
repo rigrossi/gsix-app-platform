@@ -1,0 +1,133 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "86229074-20d4-46df-a090-8c287967c5b2",
+        "name": "REST API",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "cabb43dd-6161-4140-8ebf-03b6fb045a0b": {
+        "id": "b3d9cfe6-9caf-4edf-b379-7b3fa4f1ffbe",
+        "name": "Google",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "cabb43dd-6161-4140-8ebf-03b6fb045a0b",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "3c9e66da-a7e2-475c-90db-eb512b522903",
+        "name": "Date",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {
+            "favoriteFormat": "DD/MM/YYYY"
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "e65cddba-faf9-4880-909b-371dceb6e26d",
+        "name": "Supabase",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyaHpndnN0ZnpmaHJycGxocmNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQzNDkwODcsImV4cCI6MjA3OTkyNTA4N30.8YuXcD1hmYqbYPc_4NDYK_-KwiEqBGeuz-14OUC7pYY",
+            "projectUrl": "https://zrhzgvstfzfhrrplhrck.supabase.co",
+            "environments": {
+                "editor": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJlcGR3YnptcHRxZnF0dndmZ3NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2MDU4MTAsImV4cCI6MjA3Nzk2NTgxMH0.PWR6dkdJSx6Hk4-wQi1-GYVD2iyFGcfT1G047v_fKfo",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://bepdwbzmptqfqtvwfgss.supabase.co",
+                    "baseProjectRef": "bepdwbzmptqfqtvwfgss"
+                },
+                "staging": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJlcGR3YnptcHRxZnF0dndmZ3NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2MDU4MTAsImV4cCI6MjA3Nzk2NTgxMH0.PWR6dkdJSx6Hk4-wQi1-GYVD2iyFGcfT1G047v_fKfo",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://bepdwbzmptqfqtvwfgss.supabase.co",
+                    "baseProjectRef": "bepdwbzmptqfqtvwfgss"
+                },
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyaHpndnN0ZnpmaHJycGxocmNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQzNDkwODcsImV4cCI6MjA3OTkyNTA4N30.8YuXcD1hmYqbYPc_4NDYK_-KwiEqBGeuz-14OUC7pYY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://zrhzgvstfzfhrrplhrck.supabase.co",
+                    "baseProjectRef": "zrhzgvstfzfhrrplhrck"
+                }
+            },
+            "realtimeTables": {
+                "cliente": true,
+                "empresa": false,
+                "projetos": true,
+                "integrador": true,
+                "transacoes": true,
+                "versao_app": true,
+                "espelho_user": false,
+                "etapas_projeto": true,
+                "visita_tecnica": true,
+                "concessionarias": true,
+                "cliente_documentos": true,
+                "unidade_consumidora": false
+            }
+        }
+    },
+    "8bc1b5c9-29e4-4269-becb-a2e1a8de9127": {
+        "id": "8bb55637-d56b-494e-bcca-cbcb08fd94f4",
+        "name": "WeWeb Email",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "8bc1b5c9-29e4-4269-becb-a2e1a8de9127",
+        "publicData": {}
+    },
+    "d66a250d-8468-469e-ad33-ee028f632398": {
+        "id": "2afc5830-aef7-4b07-968c-0bca219530e5",
+        "name": "OpenAI",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "d66a250d-8468-469e-ad33-ee028f632398",
+        "publicData": {}
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "240b6383-11f4-4afa-88f8-693070807ff8",
+        "name": "Charts",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "3e204db2-70fe-439f-98d9-0f2b43998195",
+        "name": "Supabase Auth",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyaHpndnN0ZnpmaHJycGxocmNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQzNDkwODcsImV4cCI6MjA3OTkyNTA4N30.8YuXcD1hmYqbYPc_4NDYK_-KwiEqBGeuz-14OUC7pYY",
+            "projectUrl": "https://zrhzgvstfzfhrrplhrck.supabase.co",
+            "environments": {
+                "editor": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJlcGR3YnptcHRxZnF0dndmZ3NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2MDU4MTAsImV4cCI6MjA3Nzk2NTgxMH0.PWR6dkdJSx6Hk4-wQi1-GYVD2iyFGcfT1G047v_fKfo",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://bepdwbzmptqfqtvwfgss.supabase.co",
+                    "baseProjectRef": "bepdwbzmptqfqtvwfgss"
+                },
+                "staging": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJlcGR3YnptcHRxZnF0dndmZ3NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2MDU4MTAsImV4cCI6MjA3Nzk2NTgxMH0.PWR6dkdJSx6Hk4-wQi1-GYVD2iyFGcfT1G047v_fKfo",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://bepdwbzmptqfqtvwfgss.supabase.co",
+                    "baseProjectRef": "bepdwbzmptqfqtvwfgss"
+                },
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyaHpndnN0ZnpmaHJycGxocmNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQzNDkwODcsImV4cCI6MjA3OTkyNTA4N30.8YuXcD1hmYqbYPc_4NDYK_-KwiEqBGeuz-14OUC7pYY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://zrhzgvstfzfhrrplhrck.supabase.co",
+                    "baseProjectRef": "zrhzgvstfzfhrrplhrck"
+                }
+            }
+        }
+    },
+    "fdf6b667-9515-4086-87ef-6042fc6f20fb": {
+        "id": "bbdc2e07-da12-4554-8b13-462624aea5ba",
+        "name": "Google Sheets",
+        "designId": "8bc3e6ae-7479-462c-b201-593221945997",
+        "pluginId": "fdf6b667-9515-4086-87ef-6042fc6f20fb",
+        "publicData": {}
+    }
+}
